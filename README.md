@@ -1,6 +1,6 @@
 # pbs-exporter
 
-## I no longer use proxmox backup server so development of this tool has ceased. Feel free to fork it
+## The repository was copied, this is not my work
 
 Bash script that uploads proxmox backup server API info to prometheus' pushgateway on a daily basis.
 
